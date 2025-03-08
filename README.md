@@ -1,5 +1,4 @@
 # WHMCS-ThemeForest
-ThemeForest 上几乎全部的WHMCS主题<br>
-仅供学习/研究模板制作使用 如需商业用途请务必支持正版 给开发者继续下去的动力！<br>
-如需WHMCS 配置安装/主题模板定制 欢迎联系企鹅 972333323<br>
-感谢大佬们支持 给个star可好？<br>
+Presque tous les thèmes WHMCS sur ThemeForest<br>
+C'est uniquement pour la production et l'utilisation de modèles d'apprentissage/recherche. Si vous avez besoin d'une utilisation commerciale, assurez-vous de prendre en charge la version authentique pour donner aux développeurs la motivation de continuer !<br>
+Si vous avez besoin de l'installation de la configuration WHMCS/personnalisation du modèle de thème, veuillez contacter Penguin 972333323<br>
